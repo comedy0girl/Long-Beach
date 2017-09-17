@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'ostrich_sans_inlineregular';
+    src: url('../assets/fonts/ostrichsansinline-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/ostrichsansinline-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('../assets/fonts/caviardreams-webfont.woff2') format('woff2'),
+         url('../assets/fonts/caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caviar_dreamsbold_italic';
+    src: url('../assets/fonts/caviardreams_bolditalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/caviardreams_bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caviar_dreamsitalic';
+    src: url('../assets/fonts/caviardreams_italic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/caviardreams_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('../assets/fonts/caviar_dreams_bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/caviar_dreams_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'glacial_indifferencebold';
+    src: url('../assets/fonts/glacialindifference-bold-webfont.woff2') format('woff2'),
+         url('glacialindifference-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'glacial_indifferenceitalic';
+    src: url('../assets/fonts/glacialindifference-italic-webfont.woff2') format('woff2'),
+         url('glacialindifference-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'glacial_indifferenceregular';
+    src: url('../assets/fonts/glacialindifference-regular-webfont.woff2') format('woff2'),
+         url('glacialindifference-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+$headline: 'ostrich_sans_inlineregular';
+$paragraph: 'glacial_indifferenceregular';
+$tags:  'glacial_indifferencebold';
